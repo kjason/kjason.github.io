@@ -89,6 +89,10 @@ a { color: #39c; text-decoration: none; }
 
 a:hover { color: #069; }
 
+a.venue { color: #239B56; }
+
+a.venue:hover { color: #145A32; }
+
 @media (prefers-color-scheme: dark) { a { color: #3eb7f0; } }
 a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
